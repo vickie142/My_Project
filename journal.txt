@@ -1,0 +1,22 @@
+First Week was talk about what kind of projects were avaiable and what we should do.
+22/11- Codewars
+28/11- Codewars
+30/11- Meet up with class
+1/12- playing around in pygame.
+trying to style my website, mostly my navigation.
+2/12- learned about cloud and terraform with nick.
+5/12- missed class
+6/12- was playing around with codewars, openai chat. aws graphs
+
+OpenAI chat learning:
+
+I wanted to intergrate user input into the website like a search bar
+or wanting the website to personally style itself to make a post rather
+than having the changes be backended.
+6/12-Watching a lot of rest api videos in yt trying to understand the theory, concenpt and code.
+7/12- watching the fastapi vid that stacey sent and collaberated with quentin
+8/12- was in class with kris, playing around with react and how to get it working
+9/12- ul= unordered list, ol= ordered list, li = list. watch anime openiongs
+12/12- intergrating the backend to the frontend
+13/12- rendered unconscience because of a headache
+14/12-catch up.
