@@ -1,0 +1,11 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import MyList from '../components/MyList';
+import Newest from '../components/Newest.jsx'
+const pageTitle = "Journal";
+---
+
+<BaseLayout pageTitle={pageTitle}>
+    <Newest client:only="react"/>
+    <MyList client:only="react"><b> blah blah blah</b></MyList>
+</BaseLayout>

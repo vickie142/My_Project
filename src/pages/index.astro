@@ -1,0 +1,15 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Greeting from '../components/Greeting';
+import Hello from '../components/Hello.jsx';
+import TimeComponent from '../components/Tardis.jsx'
+import MyList from '../components/MyList.jsx'
+const pageTitle = "Home Page";
+---
+<BaseLayout pageTitle={pageTitle}>
+  <h2>My awesome blog subtitle</h2>
+  <Hello client:only="react"/>
+  <TimeComponent client:only="react"/>
+  <MyList client:only="react"/>
+  <Greeting client:load messages={["Hej", "Hallo", "Hola", "Habari"]} />
+</BaseLayout>
